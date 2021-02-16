@@ -8,5 +8,5 @@ main()
    y=x^y;
    x=x^y;
    
-   printf("after swapping\n x=%d/n y=%/n",x,y);
+   printf("after swapping\n x=%d/n y=%d/n",x,y);
 }
